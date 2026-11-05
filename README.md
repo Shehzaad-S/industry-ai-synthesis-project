@@ -269,6 +269,8 @@ pip install -r requirements.txt
 
 # Running the Application
 
+Set your environment variables (shown above)
+
 Launch the platform:
 
 ```bash
