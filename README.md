@@ -1,4 +1,4 @@
-# Restaurant Intelligence Platform
+# Restaurant Intelligence Platform (Semi-Autonomous Multi Agent System)
 
 ## Project Description
 
